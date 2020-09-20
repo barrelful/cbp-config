@@ -22,6 +22,6 @@ sudo ./install.sh
 
 ```sh
 git clone https://github.com/diogavila/cbp-config.git
-cp cbp-config/craftbeerpi.db .
+sudo cp cbp-config/craftbeerpi.db craftbeerpi3/
 sudo /etc/init.d/craftbeerpiboot restart
 ```
